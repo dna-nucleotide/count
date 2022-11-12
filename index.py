@@ -7,7 +7,7 @@ from PIL import Image
 
 # Page Title
 
-image = Image.open('dna.png')
+image = Image.open('dna.gif')
 
 st.image(image, use_column_width=True)
 
